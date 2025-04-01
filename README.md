@@ -1,9 +1,15 @@
 <div align="center">
-  <!-- Python Ecosystem -->
+  <!-- Programming Languages -->
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="Python logo" />
   </a>
   <img width="12" />
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" height="30" alt="C++ logo" />
+  </a>
+  <img width="12" />
+
+  <!-- Python Ecosystem -->
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="Pandas logo" />
   </a>
@@ -23,7 +29,11 @@
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" height="30" alt="Scikit-learn logo" />
   </a>
-  <img width="12" /><br>
+  <img width="12" />
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="30" alt="TensorFlow logo" />
+  </a>
+  <img width="12" />
 
   <!-- OS & Tools -->
   <a href="https://www.linux.org/" target="_blank">
@@ -34,19 +44,6 @@
     <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge" height="30" alt="Debian logo" />
   </a>
   <img width="12" />
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-    <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=Mathworks&logoColor=white&style=for-the-badge" height="30" alt="MATLAB logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" height="30" alt="Excel logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank">
-    <img src="https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white&style=for-the-badge" height="30" alt="PowerPoint logo" />
-  </a>
-  <img width="12" /><br>
-
   <!-- Version Control -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="Git logo" />
