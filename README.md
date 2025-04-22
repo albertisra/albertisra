@@ -69,7 +69,7 @@
     <img src="https://img.shields.io/badge/Social%20Analyzer-7E57C2?logo=openaccess&logoColor=white&style=for-the-badge" height="30" alt="Social Analyzer logo" />
   </a>
   <img width="12" />
-  <a href="https://www.spiderfoot.net/" target="_blank">
+  <a href="https://github.com/smicallef/spiderfoot" target="_blank">
     <img src="https://img.shields.io/badge/SpiderFoot-26A69A?logo=hackaday&logoColor=white&style=for-the-badge" height="30" alt="SpiderFoot logo" />
   </a>
 </div>
