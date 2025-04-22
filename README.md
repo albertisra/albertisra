@@ -44,6 +44,7 @@
     <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge" height="30" alt="Debian logo" />
   </a>
   <img width="12" />
+
   <!-- Version Control -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="Git logo" />
@@ -51,5 +52,24 @@
   <img width="12" />
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="GitHub logo" />
+  </a>
+  <img width="12" />
+  </br>
+
+  <!-- OSINT Tools -->
+  <a href="https://github.com/sherlock-project/sherlock" target="_blank">
+    <img src="https://img.shields.io/badge/Sherlock-EC407A?logo=paloaltonetworks&logoColor=white&style=for-the-badge" height="30" alt="Sherlock logo" />
+  </a>
+  <img width="12" />
+  <a href="https://github.com/laramies/theHarvester" target="_blank">
+    <img src="https://img.shields.io/badge/theHarvester-FFA000?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="theHarvester logo" />
+  </a>
+  <img width="12" />
+  <a href="https://github.com/qeeqbox/social-analyzer" target="_blank">
+    <img src="https://img.shields.io/badge/Social%20Analyzer-7E57C2?logo=openaccess&logoColor=white&style=for-the-badge" height="30" alt="Social Analyzer logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.spiderfoot.net/" target="_blank">
+    <img src="https://img.shields.io/badge/SpiderFoot-26A69A?logo=hackaday&logoColor=white&style=for-the-badge" height="30" alt="SpiderFoot logo" />
   </a>
 </div>
