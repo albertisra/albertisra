@@ -4,10 +4,6 @@
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="Python logo" />
   </a>
   <img width="12" />
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" height="30" alt="C++ logo" />
-  </a>
-  <img width="12" />
 
   <!-- Python Ecosystem -->
   <a href="https://pandas.pydata.org/" target="_blank">
@@ -69,7 +65,7 @@
     <img src="https://img.shields.io/badge/Social%20Analyzer-7E57C2?logo=openaccess&logoColor=white&style=for-the-badge" height="30" alt="Social Analyzer logo" />
   </a>
   <img width="12" />
-  <a href="https://github.com/smicallef/spiderfoot" target="_blank">
-    <img src="https://img.shields.io/badge/SpiderFoot-26A69A?logo=hackaday&logoColor=white&style=for-the-badge" height="30" alt="SpiderFoot logo" />
+  <a href="https://github.com/weecology/DeepForest" target="_blank">
+    <img src="https://img.shields.io/badge/Deep%20Forest-4285F4?logo=googlemaps&logoColor=white&style=for-the-badge" height="30" alt="Deep Forest logo" />
   </a>
 </div>
